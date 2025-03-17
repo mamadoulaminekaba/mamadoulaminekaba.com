@@ -10,17 +10,20 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+            overflow-x: hidden;
         }
         header {
             background: #2C3E50;
             color: white;
             padding: 20px;
             text-align: center;
+            position: relative;
         }
         .container {
             width: 80%;
             margin: auto;
             overflow: hidden;
+            padding-top: 20px;
         }
         .section {
             background: white;
@@ -28,21 +31,41 @@
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease-in-out;
+        }
+        .section.show {
+            opacity: 1;
+            transform: translateY(0);
         }
         .carousel {
             display: flex;
             overflow-x: auto;
             gap: 10px;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
         }
         .carousel img {
             width: 300px;
             height: 200px;
             border-radius: 5px;
+            transition: transform 0.3s ease-in-out;
+        }
+        .carousel img:hover {
+            transform: scale(1.1);
         }
         .language-toggle {
-            float: right;
-            margin-top: -40px;
-            margin-right: 20px;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+        .fade-in {
+            animation: fadeIn 1.5s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
     </style>
     <script>
@@ -51,15 +74,31 @@
             googleTranslateElement.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateInit";
             document.head.appendChild(googleTranslateElement);
         }
-
         function googleTranslateInit() {
             new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
         }
+        document.addEventListener("DOMContentLoaded", function() {
+            let sections = document.querySelectorAll(".section");
+            let options = {
+                threshold: 0.2
+            };
+            let observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add("show");
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, options);
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+        });
     </script>
 </head>
 <body>
     <header>
-        <h1>MamadouLamineKaba</h1>
+        <h1 class="fade-in">MamadouLamineKaba</h1>
         <div id="google_translate_element" class="language-toggle"></div>
     </header>
     
