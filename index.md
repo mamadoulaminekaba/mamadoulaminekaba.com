@@ -1,3 +1,7 @@
+layout: default
+title: Mamadou Lamine Kaba
+permalink: /
+
 
 # Mamadou Lamine Kaba
 

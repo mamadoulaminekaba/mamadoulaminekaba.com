@@ -1,3 +1,8 @@
+---
+layout: default
+title: Business Plan
+permalink: /businessplan/
+---
 
 # Business Plan – MamadouLamineKaba.com
 
