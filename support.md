@@ -12,9 +12,9 @@ Thank you for considering supporting my mission to build inclusive educational t
 
 ## 🎯 Why I Need Support
 
-I’m building **SensingSkill.com** from **Bamako, Mali** — a multilingual, AI-powered knowledge platform that helps people from all backgrounds access and apply best practices in **every art form and scientific field**.
+I’m building [SensingSkill.com](https://www.sensingskill.com) from **Bamako, Mali** — a multilingual, AI-powered knowledge platform that helps people from all backgrounds access and apply best practices in **every art form and scientific field**.
 
-This site — **mamadoulaminekaba.com** — documents my academic, personal, and professional journey. Your support directly empowers me to sustain my responsibilities and development goals.
+This site — [mamadoulaminekaba.com](https://www.mamadoulaminekaba.com) — documents my academic, personal, and professional journey. Your support directly empowers me to sustain my responsibilities and development goals.
 
 ---
 
