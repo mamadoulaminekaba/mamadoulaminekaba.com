@@ -4,7 +4,7 @@ title: My Development Plan
 permalink: /development-plan/
 ---
 
-# 🧭 My Development Plan – MamadouLamineKaba.com
+# 🧭 My Development Plan
 
 ---
 
