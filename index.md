@@ -38,19 +38,33 @@ The platform currently serves as my Master’s internship and research project a
 
 ## 🤝 Why This Site Exists
 
-- To document and share my **academic journey**
-- To showcase the **process of building SensingSkill**
-- To invite supporters, donors, mentors, and collaborators
-- To inspire other students building global-impact projects from underrepresented regions
+MamadouLamineKaba.com is more than a personal website — it’s my **public development log and digital accountability space**. Through this site, I:
+
+- Share project updates transparently
+- Publish blog posts about tools I need and why I need them
+- Invite financial support for personal and project needs
+- Link directly to the development of SensingSkill.com
 
 ---
 
+## 🔗 Explore More
+
+- [💬 Support My Journey](/support/)
+- [📘 Project Updates](/updates/)
+- [🧠 Read the Blog](/blog/)
+- [📄 View My Resume & Timeline](/portfolio/)
+- [🌐 Visit SensingSkill.com](https://www.sensingskill.com)
+
+---
+
+Thank you for stopping by — I invite you to follow along and support however you can.
+
 ## 🌐 Connect the Dots
-
-→ [Explore SensingSkill.com](https://www.sensingskill.com)  
-→ [Read My Personal Business Plan](./businessplan.md)  
-→ [Support My Journey](./support.md)
-
+- [💬 Support My Journey](/support/)
+- [📘 Project Updates](/updates/)
+- [🧠 Read the Blog](/blog/)
+- [📄 View My Resume & Timeline](/portfolio/)
+- [🌐 Visit SensingSkill.com](https://www.sensingskill.com)
 ---
 
 *Built with intention in Bamako, Mali and rooted in New York City.*  
