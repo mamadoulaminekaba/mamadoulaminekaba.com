@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+  <header style="text-align: center; padding: 1rem 0;">
+    <h1><a href="/">Mamadou Lamine Kaba</a></h1>
+    <p><em>Personal site documenting my academic journey and SensingSkill.com project.</em></p>
+  </header>
+
+  <nav style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 0.5rem;">
+    <a href="/">Home</a>
+    <a href="/support/">Support</a>
+    <a href="/updates/">Updates</a>
+    <a href="/blog/">Blog</a>
+    <a href="/portfolio/">Resume</a>
+    <a href="https://www.sensingskill.com" target="_blank">SensingSkill.com</a>
+  </nav>
+
+  <main style="max-width: 720px; margin: auto; padding: 1rem;">
+    {{ content }}
+  </main>
+
+  <footer style="text-align: center; margin-top: 2rem; padding: 1rem 0; font-size: 0.9em;">
+    <hr />
+    <nav>
+      <a href="/">Home</a> ·
+      <a href="/support/">Support</a> ·
+      <a href="/updates/">Updates</a> ·
+      <a href="/blog/">Blog</a> ·
+      <a href="/portfolio/">Resume</a> ·
+      <a href="https://www.sensingskill.com" target="_blank">SensingSkill.com</a>
+    </nav>
+    <p>© {{ site.time | date: '%Y' }} Mamadou Lamine Kaba</p>
+  </footer>
+</body>
+</html>
