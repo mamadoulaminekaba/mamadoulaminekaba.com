@@ -29,7 +29,7 @@ To build software, hardware, and educational knowledge packages that make the **
 
 An AI-driven platform that generates **multilingual skill packages** across all fields of knowledge — beginning with **Library & Information Science (LIS)** and expanding into all art forms and scientific disciplines.
 
-- 🎓 Serves as my MSLIS internship project
+- 🎓 Serves as my MSLIS Master’s Project
 - 🧪 Will evolve into my PhD dissertation pilot
 - 🌍 Aims to become a global learning engine
 
@@ -73,11 +73,31 @@ An AI-driven platform that generates **multilingual skill packages** across all 
 
 ## 🪙 Support Opportunities
 
-- 💸 Donations via [PayPal](https://paypal.me/mamadoukaba), [Ko-Fi](https://ko-fi.com/mamadoukaba)
+- 💸 Donations via [PayPal](https://paypal.me/Mamadoukaba23), [Ko-Fi](https://ko-fi.com/mamadoukaba)
 - 💻 Equipment sponsorship (Mac, Windows, Android, solar)
 - 🧠 Mentorship or collaboration in LIS, AI, or education
 
 👉 [Support My Journey](/support/)
+
+---
+
+## 📎 Proof of Academic Enrollment & Funding
+
+To ensure full transparency, I’ve included below all relevant documents that verify my academic status and the funding that supports this work — most notably, the Gates Millennium Scholars Program (GMS), which I received in 2016 and which is administered by the United Negro College Fund (UNCF).
+
+### 🎓 Scholarship & Program Status
+
+- 📄 [GMSP Acceptance Letter (PDF)](/assets/docs/gmsp-acceptance-letter.pdf)
+- 📷 [Photo of Me Holding the GMS Certificate at 18](/assets/images/gmsp-photo.jpg)
+- 📄 [Public Listing – GMS Class of 2016 (Full State-by-State Cohort)](/assets/docs/gmsp-class-of-2016-full.pdf)
+- 📄 [UNCF Press Release – Final GMS Class Announcement](/assets/docs/gmsp-2016-press-release.pdf)
+
+> The GMS award supports graduate study in Library & Information Science, Computer Science, and related fields through 2029. My indirect cost support is disbursed by the United Negro College Fund (UNCF).
+
+### 🏫 Academic Enrollment & Financial Aid
+
+- 📄 [LIU Enrollment Verification – Spring 2025](/assets/docs/liu-enrollment-verification.pdf)
+- 📄 [2024–2025 Financial Aid Award Letter](/assets/docs/financial-aid-award.pdf)
 
 ---
 
