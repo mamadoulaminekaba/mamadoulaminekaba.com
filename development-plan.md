@@ -25,7 +25,7 @@ To build software, hardware, and educational knowledge packages that make the **
 
 ## 🌍 What I’m Building
 
-### [SensingSkill.com](https://www.sensingskill.com)
+### [sensingskill.com](https://www.sensingskill.com)
 
 An AI-driven platform that generates **multilingual skill packages** across all fields of knowledge — beginning with **Library & Information Science (LIS)** and expanding into all art forms and scientific disciplines.
 

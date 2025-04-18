@@ -12,7 +12,7 @@ Thank you for considering supporting my mission to build inclusive educational t
 
 ## 🎯 Why I Need Support
 
-I’m building [SensingSkill.com](https://www.sensingskill.com) from **Bamako, Mali** — a multilingual, AI-powered knowledge platform that helps people from all backgrounds access and apply best practices in **every art form and scientific field**.
+I’m building [sensingskill.com](https://www.sensingskill.com) from **Bamako, Mali** — a multilingual, AI-powered knowledge platform that helps people from all backgrounds access and apply best practices in **every art form and scientific field**.
 
 This site — [mamadoulaminekaba.com](https://www.mamadoulaminekaba.com) — documents my academic, personal, and professional journey. Your support directly empowers me to sustain my responsibilities and development goals.
 
@@ -22,7 +22,7 @@ This site — [mamadoulaminekaba.com](https://www.mamadoulaminekaba.com) — doc
 
 From now until September, I’m asking for **personal support** from those closest to me — family, friends, and trusted contacts — to help me:
 
-- Replace my aging 2013 MacBook Pro with a high-performance Mac
+- Replace my aging 2013 MacBook Pro with a high-performance some Mac
 - Maintain reliable mobile internet access and field presentation capabilities
 - Subscribe to essential software tools (AI services, hosting, design tools)
 - Cover transportation and daily development-related costs
@@ -67,7 +67,7 @@ This kind of support can come from:
 
 ## 💡 Other Ways to Help
 
-- Share [SensingSkill.com](https://www.sensingskill.com) with potential partners
+- Share [sensingskill.com](https://www.sensingskill.com) with potential partners
 - Introduce me to mentors or potential funders (e.g., at [ImpactHub](https://the-hub.company))
 - Donate credits, tools, or hardware to expand development access
 - Fund specific software features or community-focused modules

@@ -4,7 +4,7 @@ title: Mamadou Lamine Kaba
 permalink: /
 ---
 
-Welcome to my official personal site. I'm currently completing my Master’s in Library and Information Science at Long Island University while living and working in Bamako, Mali. This site documents my academic journey, outlines my future plans, and shares the origin and vision behind the platform I'm building: [SensingSkill.com](https://www.sensingskill.com).
+Welcome to my official personal site. I'm currently completing my Master’s in Library and Information Science at Long Island University while living and working in Bamako, Mali. This site documents my academic journey, outlines my future plans, and shares the origin and vision behind the platform I'm building: [sensingskill.com](https://www.sensingskill.com).
 
 ---
 
@@ -22,7 +22,7 @@ During this time, I’m building and refining SensingSkill.com as my Master’s 
 
 ## 🚀 What I’m Building
 
-### [SensingSkill.com](https://www.sensingskill.com)
+### [sensingskill.com](https://www.sensingskill.com)
 A multilingual AI-supported platform designed to help users of all backgrounds:
 - Learn a new skill from scratch
 - Sharpen competencies in arts and sciences
