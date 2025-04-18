@@ -2,11 +2,15 @@
 layout: default
 title: What’s a Development Brick?
 permalink: /blog/development-bricks/
+tags: [fundraising, infrastructure, LIS, open-access]
+audience: [individual, institution, incubator]
+sub_audience: [student, independent-learner, library, grant-program]
+language: [English, French]
 ---
 
 # 🧱 What’s a Development Brick?
 
-SensingSkill.com is my contribution to making world-class skill learning accessible to people in second-, third-, and first-world environments.
+[sensingskill.com](https://www.sensingskill.com) is my contribution to making world-class skill learning accessible to people in second-, third-, and first-world environments.
 
 To build it responsibly, I’ve structured a community-driven support model where each donor — regardless of budget — can meaningfully participate.
 
