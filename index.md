@@ -59,12 +59,6 @@ MamadouLamineKaba.com is more than a personal website — it’s my **public dev
 
 Thank you for stopping by — I invite you to follow along and support however you can.
 
-## 🌐 Connect the Dots
-- [💬 Support My Journey](/support/)
-- [📘 Project Updates](/updates/)
-- [🧠 Read the Blog](/blog/)
-- [📄 View My Resume & Timeline](/portfolio/)
-- [🌐 Visit SensingSkill.com](https://www.sensingskill.com)
 ---
 
 *Built with intention in Bamako, Mali and rooted in New York City.*  
