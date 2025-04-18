@@ -18,33 +18,30 @@ This site — [mamadoulaminekaba.com](https://www.mamadoulaminekaba.com) — doc
 
 ---
 
-## ⏳ Immediate Needs (Now through September 2025)
+## 🛠️ Why I Need Support Now
 
-From now until September, I’m asking for **personal support** from those closest to me — family, friends, and trusted contacts — to help me:
+I’m actively building [SensingSkill.com](https://www.sensingskill.com) — a multilingual, AI-powered learning platform — from Bamako, Mali. The project’s goal is to democratize access to best practices across all art forms and science fields through open-source knowledge workflows and adaptive learning mediums.
 
-- Replace my aging 2013 MacBook Pro with a high-performance some Mac
-- Maintain reliable mobile internet access and field presentation capabilities
-- Subscribe to essential software tools (AI services, hosting, design tools)
-- Cover transportation and daily development-related costs
-- Maintain academic momentum while building out the foundation of SensingSkill.com
+To prepare the platform for cross-regional pilot testing, I am currently seeking support for **infrastructure enhancements and development tools**.
+
+### This Support Will Help Me:
+- Expand access to **high-performance development hardware** for cross-platform testing (Mac, Windows, Android, Web)
+- Subscribe to essential **AI and SaaS tools** that power multilingual content generation and workflow automation
+- Maintain reliable **mobile internet access** for remote work and field presentations
+- Develop and distribute educational toolkits in both **digital and printable formats**
+- Sustain development progress leading up to my next academic disbursement in **September 2025**
 
 ---
 
-## 🌱 Project Support (Fall 2025 Onward)
+## 💡 Who This Support Is For
 
-Starting in **September 2025**, I will receive my next round of academic funding to cover core living and educational needs. After that point, all additional support will be directed toward building **SensingSkill.com**, including:
+This is a call for support from individuals, institutions, and innovation incubators — like **ImpactHub Mali** — that are committed to:
 
-- Access to high-performance Windows laptops and Android phones for cross-platform testing
-- Advanced SaaS tools to expand and automate development
-- Educational content generation, validation, and translation
-- Integration with local businesses and affiliate ecosystems
-- Open-source and multilingual rollout support
+- Educational accessibility
+- Inclusive technology for emerging economies
+- Open-source, AI-enhanced learning tools
 
-This kind of support can come from:
-- Individuals
-- Mission-aligned institutions (e.g., ImpactHub)
-- Technical contributors
-- Education/innovation grantmakers
+Your contribution will help turn this platform into a **functional learning tool for second-, third-, and first-world learners**, built responsibly from the ground up.
 
 ---
 
@@ -52,7 +49,7 @@ This kind of support can come from:
 
 ### 🌍 International Support
 
-- **PayPal:** [paypal.me/mamadoukaba](https://paypal.me/mamadoukaba)
+- **PayPal:** [paypal.me/Mamadoukaba23](https://paypal.me/Mamadoukaba23)
 - **Ko-Fi:** [ko-fi.com/mamadoukaba](https://ko-fi.com/mamadoukaba)
 
 > GitHub Sponsors: Coming soon
