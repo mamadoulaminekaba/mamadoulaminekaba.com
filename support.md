@@ -31,17 +31,31 @@ To prepare the platform for cross-regional pilot testing, I am currently seeking
 - Develop and distribute educational toolkits in both **digital and printable formats**
 - Sustain development progress leading up to my next academic disbursement in **September 2025**
 
+### What Your Support Builds:
+Each donation contributes directly to building core features, testing access tools, and powering open educational workflows across all platforms — **Mac, Windows, Android, and Web**.
+
 ---
 
 ## 💡 Who This Support Is For
 
-This is a call for support from individuals, institutions, and innovation incubators — like [Impact Hub Bamako](https://the-hub.company) — that are committed to:
+This project welcomes support from individuals, institutions, and incubators aligned with:
 
-- Educational accessibility
-- Inclusive technology for emerging economies
-- Open-source, AI-enhanced learning tools
+- Educational equity and digital inclusion
+- Open-source, multilingual platforms for skill development
+- AI-enhanced learning solutions built from the Global South
 
-Your contribution will help turn this platform into a **functional learning tool for second-, third-, and first-world learners**, built responsibly from the ground up.
+No matter your capacity, your contribution lays a part of the foundation.
+
+### 🧱 Development Brick Funding Tiers
+
+| Layer              | Example Cost | What It Supports |
+|-------------------|--------------|------------------|
+| **Brick**         | $10          | AI tools, mobile data, RAM upgrades, printed pilots |
+| **Row of Bricks** | $50          | A week of SaaS access + focused MVP dev hours |
+| **Foundation Block** | $100+     | Hardware, dual-display tools, long-term access licenses |
+| **Cornerstone**   | $500+        | MVP testing travel, cross-regional outreach, incubation scaling |
+
+You can give one brick or a full foundation block — every part matters.
 
 ---
 
@@ -49,10 +63,14 @@ Your contribution will help turn this platform into a **functional learning tool
 
 ### 🌍 International Support
 
+Supporters from around the world can donate securely via:
+
 - **PayPal:** [paypal.me/Mamadoukaba23](https://paypal.me/Mamadoukaba23)
 - **Ko-Fi:** [ko-fi.com/mamadoukaba](https://ko-fi.com/mamadoukaba)
 
 > GitHub Sponsors: Coming soon
+
+Ko-Fi lets you give 1 or more bricks as a one-time or monthly donation.
 
 ---
 
@@ -64,16 +82,16 @@ Your contribution will help turn this platform into a **functional learning tool
 
 ## 💡 Other Ways to Help
 
-- Share [sensingskill.com](https://www.sensingskill.com) with potential partners
-- Introduce me to mentors or potential funders (e.g., at [Impact Hub Bamako](https://the-hub.company))
-- Donate credits, tools, or hardware to expand development access
-- Fund specific software features or community-focused modules
+- Share [sensingskill.com](https://www.sensingskill.com) with educational leaders or tech incubators.
+- Connect me with mentors, sponsors, or open-source contributors.
+- Donate tools, credits, or used hardware for development and testing.
+- Sponsor specific features (translation API, PDF generator, offline delivery).
 
 ---
 
 ## 🙏 Thank You
 
-This journey is both deeply personal and globally ambitious. Every show of support — whether financial, intellectual, or spiritual — helps bring this vision closer to reality. You are part of a growing ecosystem of changemakers.
+This journey is deeply personal and globally ambitious. Whether you lay a brick or help place a cornerstone, your contribution moves this platform closer to empowering learners in every context.
 
 ---
 
