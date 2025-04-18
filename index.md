@@ -4,9 +4,7 @@ title: Mamadou Lamine Kaba
 permalink: /
 ---
 
-Digital Humanist | LIS Graduate Student | Founder of SensingSkill.com.
-
-Welcome to my official personal site. I'm currently completing my Master’s in Library and Information Science at Long Island University while living and working in Bamako, Mali. This site documents my academic journey, outlines my future plans, and shares the origin and vision behind the platform I'm building: **SensingSkill.com**.
+Welcome to my official personal site. I'm currently completing my Master’s in Library and Information Science at Long Island University while living and working in Bamako, Mali. This site documents my academic journey, outlines my future plans, and shares the origin and vision behind the platform I'm building: [SensingSkill.com](https://www.sensingskill.com).
 
 ---
 
