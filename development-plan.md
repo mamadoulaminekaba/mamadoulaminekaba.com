@@ -98,6 +98,7 @@ To ensure full transparency, I’ve included below all relevant documents that v
 
 - 📄 [LIU Enrollment Verification – Spring 2025](/assets/docs/liu-enrollment-verification.pdf)
 - 📄 [2024–2025 Financial Aid Award Letter](/assets/docs/financial-aid-award.pdf)
+- 📄 [Financial Aid Payment History – Breakdown by Term (PDF)](/assets/docs/financial-aid-payment-history.pdf)
 
 ---
 
