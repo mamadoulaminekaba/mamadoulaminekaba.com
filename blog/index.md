@@ -6,15 +6,38 @@ permalink: /blog/
 
 # 🧠 Blog
 
-Welcome to my blog — a space where I document what I’m learning and building across library and information science, communication, linguistics, and the global open education movement.
+Browse articles created with your background in mind:
 
-## Explore By Audience
+- [Individuals](#individual)
+- [Institutions](#institution)
+- [Incubators](#incubator)
 
-- [Articles for Individuals](/blog/?audience=individual)
-- [Articles for Institutions](/blog/?audience=institution)
-- [Articles for Incubators](/blog/?audience=incubator)
+---
 
-> In the future, these posts will be tailored to you based on your interests and user type. Sign in will allow you to get blog recommendations tied to your learning needs and toolkit goals.
+## 👤 For Individuals
+
+{% assign individual_posts = site.posts | where_exp: "post", "post.audience contains 'individual'" %}
+{% for post in individual_posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+---
+
+## 🏛️ For Institutions
+
+{% assign institution_posts = site.posts | where_exp: "post", "post.audience contains 'institution'" %}
+{% for post in institution_posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+---
+
+## 🚀 For Incubators
+
+{% assign incubator_posts = site.posts | where_exp: "post", "post.audience contains 'incubator'" %}
+{% for post in incubator_posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ## Featured Post
 
