@@ -4,7 +4,7 @@ title: Support
 permalink: /support/
 ---
 
-# Support My Journey
+# 🤝 Support My Journey
 
 Thank you for considering supporting my mission to build inclusive educational tools, create long-term infrastructure for digital learning, and make knowledge more accessible worldwide.
 

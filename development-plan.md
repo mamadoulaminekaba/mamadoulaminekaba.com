@@ -48,7 +48,7 @@ An AI-driven platform that generates **multilingual skill packages** across all 
 ## 🧩 How I Will Sustain Myself (2024–2029)
 
 ### 🎓 Indirect Cost Disbursements (via GMS/UNCF)
-- $13,330 in September and January each academic year until May 2029
+- $13,386 in September and January each academic year until May 2029
 - Supports living, hardware, software, and transportation
 
 ### 🧑‍💻 Personal Strategy
