@@ -80,19 +80,9 @@ This journey is both deeply personal and globally ambitious. Every show of suppo
 
 ---
 
-## 🔗 Explore More
-
-- [💬 Support My Journey](/support/)
-- [📘 Project Updates](/updates/)
-- [🧠 Read the Blog](/blog/)
-- [📄 View My Resume & Timeline](/portfolio/)
-- [🌐 Visit SensingSkill.com](https://www.sensingskill.com)
-
----
-
 Thank you for stopping by — I invite you to follow along and support however you can.
 
 ---
 
 *Built with intention in Bamako, Mali and rooted in New York City.*  
-Contact: [mamadoulkaba@outlook.com](mailto:mamadoulkaba@outlook.com)
+Contact: [be@mamadoulaminekaba.com](mailto:be@mamadoulaminekaba.com)
