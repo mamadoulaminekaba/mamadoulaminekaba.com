@@ -101,11 +101,8 @@ To demonstrate my active academic standing and how my development work is funded
 These documents show:
 
 - I am officially enrolled for Spring 2025 in the MSLIS program.
-
 - I receive $13,386 per semester in indirect costs, issued as a refund to support living expenses, development tools, and project costs.
-
 - The UNCF disburses these funds on behalf of the Gates Millennium Scholars Program.
-
 - My tuition, university fees, and aid transactions are broken down by semester for full financial transparency.
 
 - 📄 [LIU Enrollment Verification – Spring 2025](/assets/docs/liu-enrollment-verification.pdf)
