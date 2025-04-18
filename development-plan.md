@@ -37,7 +37,7 @@ An AI-driven platform that generates **multilingual skill packages** across all 
 
 ## 💡 Purpose of This Website
 
-**MamadouLamineKaba.com** is where I:
+[mamadoulaminekaba.com](https://www.mamadoulaminekaba.com) is where I:
 - Document my academic and professional development
 - Archive what I’m learning and building in real time
 - Share progress on SensingSkill.com
@@ -95,6 +95,18 @@ To ensure full transparency, I’ve included below all relevant documents that v
 > The GMS award supports graduate study in Library & Information Science, Computer Science, and related fields through 2029. My indirect cost support is disbursed by the United Negro College Fund (UNCF).
 
 ### 🏫 Academic Enrollment & Financial Aid
+
+To demonstrate my active academic standing and how my development work is funded, I’ve included documents from Long Island University (LIU) confirming both my enrollment and financial aid disbursements.
+
+These documents show:
+
+- I am officially enrolled for Spring 2025 in the MSLIS program.
+
+- I receive $13,386 per semester in indirect costs, issued as a refund to support living expenses, development tools, and project costs.
+
+- The UNCF disburses these funds on behalf of the Gates Millennium Scholars Program.
+
+- My tuition, university fees, and aid transactions are broken down by semester for full financial transparency.
 
 - 📄 [LIU Enrollment Verification – Spring 2025](/assets/docs/liu-enrollment-verification.pdf)
 - 📄 [2024–2025 Financial Aid Award Letter](/assets/docs/financial-aid-award.pdf)
