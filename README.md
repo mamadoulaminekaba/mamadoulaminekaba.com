@@ -2,58 +2,129 @@
 
 # MamadouLamineKaba.com
 
-**Personal Academic Brand + Builder Portfolio for SensingSkill.com**
+**Personal Development & Support Platform**
 
-This repository contains the personal site for Mamadou Lamine Kaba, a digital humanist, LIS graduate student, and founder of [SensingSkill.com](https://www.sensingskill.com). It serves as a transparent, living record of his academic journey, business-building strategy, and community outreach efforts.
+—
 
----
+## Vision
 
-## 🎯 Purpose of This Site
+MamadouLamineKaba.com is a dynamic personal platform designed to:
 
-- Document the academic and professional development of Mamadou Lamine Kaba (2024–2029)
-- Showcase the building process of [SensingSkill.com](https://www.sensingskill.com)
-- Invite supporters, donors, educators, and funders to join the journey
-- Provide a holistic overview of the goals, challenges, and solutions behind launching an AI-powered learning platform from Bamako, Mali
+- Showcase the technological and entrepreneurial development leading to SensingSkill.com.
+- Organize support options (individual, institutional, incubator) with full transparency.
+- Offer learning resources and real-time updates for contributors.
+- Track progress toward full infrastructure independence (electricity, hardware, software).
 
----
+—
 
-## 🔗 Connected Projects
+## Current Technology Stack
 
-### [SensingSkill.com](https://www.sensingskill.com)
-A multilingual AI-powered platform designed to teach and deliver the best practices of all art forms and science fields across language, literacy, and technology barriers.
+| Component        | Details                                  |
+|——————|——————————————|
+| Hosting          | GitHub Pages                            |
+| Static Site Engine | Jekyll + Markdown + HTML                 |
+| Domain           | mamadoulaminekaba.com                   |
+| SSL/HTTPS        | Enforced                                |
+| Version Control  | GitHub (repository management)          |
+| Authentication (Planned) | Firebase for user login and metadata personalization |
 
-→ See the live business plan at: [sensingskill.com/businessplan.md](https://www.sensingskill.com/businessplan.md)
+—
 
----
+## Repository Structure
 
-## 📂 Repository Structure
-
+```bash
+/ (root)
+├── index.md               # Homepage dashboard
+├── support.md             # Support options & funding tiers
+├── development/           # Blog + Updates feature
+│   ├── index.md
+│   ├── firebase-setup.md
+│   └── [future-updates].md
+├── assets/                # Images, PDFs, profile materials
+│   ├── images/
+│   ├── docs/
+├── blog/                  # Learning articles (under development)
+│   ├── index.md
+│   └── development-bricks.md
+├── _layouts/
+│   └── default.html
+├── README.md              # This file
+├── _config.yml
+├── LICENSE
+└── CNAME                  # Custom domain binding
 ```
-├── index.md               # Homepage (About Me + Vision)
-├── businessplan.md        # Personal funding and growth plan (2024–2029)
-├── support.md             # How to support, sponsor, or donate
-├── assets/                # Images, CV, PDFs
-├── docs/                  # Confidential R&D notes (gitignored/private)
-├── LICENSE                # MIT License for the website structure
-```
 
----
+—
 
-## 👨‍💻 Maintained by
+## Key Features
 
-**Mamadou Lamine Kaba**  
-Founder & Current Sole Builder of SensingSkill.com  
-New York City / Bamako, Mali  
-Contact: [mamadoulkaba@outlook.com](mailto:mamadoulkaba@outlook.com)
+### 1. Home (index.md)
+- Personal dashboard
+- Project overview and vision
+- Quick access to Support and Development
 
----
+### 2. Development Feature (development/)
+- Merged blog and update logs
+- Tracks technical progress and milestones
+- Personalized learning updates coming soon (via metadata)
 
-## 🤝 Want to Support?
+### 3. Support Feature (support.md)
+- **Development Brick** donation model:
+  - Brick ($10)
+  - Row of Bricks ($50)
+  - Foundation Block ($100+)
+  - Cornerstone ($500+)
+- Donation options: Ko-Fi, Orange Money, GitHub Sponsors (planned)
+- Audience targeting: Individuals, Institutions, Incubators
 
-→ [Read the Business Plan](./businessplan.md)  
-→ [Support My Work](./support.md)  
-→ [Explore the SensingSkill Platform](https://www.sensingskill.com)
+### 4. User Personalization (Planned)
+- Firebase authentication setup
+- Metadata tagging for customized blog and update feeds
+- User dashboard based on contribution and interests
 
----
+—
 
-*This site is built with GitHub Pages + Markdown. Last updated April 2025.*
+## Infrastructure Independence Goals
+
+| Area              | Plan                                        |
+|-——————|———————————————|
+| Electricity       | Solar supplementation (in progress)        |
+| Hardware          | New MacBook + mobile devices                |
+| Internet          | Household WiFi expansion + mobile data plan |
+| SaaS Access       | AI tool subscriptions secured               |
+| Transportation    | Gradual car repairs for project outreach    |
+
+—
+
+## Project Purpose
+
+This platform is the **foundation of transparency, support, and learning** leading to the full deployment of **SensingSkill.com**—a multilingual AI knowledge platform aiming to reshape digital equity and professional development across the world.
+
+*Built intentionally in Bamako, Mali and rooted in global aspirations.*
+
+> “By supporting this project, you’re not just backing a person—you’re building a bridge toward technological self-sufficiency and educational access worldwide.”
+
+—
+
+## Follow Along
+
+- [Support My Journey](https://mamadoulaminekaba.com/support)
+- [Learn & Track Progress](https://mamadoulaminekaba.com/development)
+- [SensingSkill.com](https://www.sensingskill.com) (coming soon)
+
+—
+
+## License
+
+[MIT License](LICENSE)
+
+—
+
+**Contact:** [be@mamadoulaminekaba.com](mailto:be@mamadoulaminekaba.com)
+
+—
+
+**Next Steps:**
+- [ ] Push this README.md to GitHub.
+- [ ] Continue building /development/ and /support/ features.
+- [ ] Set up Firebase for login metadata tagging.
